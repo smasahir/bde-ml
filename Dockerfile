@@ -17,5 +17,6 @@ SHELL ["conda", "run", "-n", "cheminfo", "/bin/bash", "-c"]
 RUN conda install -y -c conda-forge jupyterlab matplotlib numpy pandas scikit-learn xgboost optuna
 RUN conda install -y -c conda-forge jupyterlab_vim
 RUN conda install -y -c conda-forge rdkit
+RUN conda install -y -c conda-forge pyarrow
 
 CMD ["conda", "run", "-n", "cheminfo", "/bin/bash", "-c", "jupyter-lab --ip=0.0.0.0 --allow-root --NotebookApp.token=''"]
