@@ -1,0 +1,10 @@
+version: '3'
+services:
+  jupyterlab:
+    build: .
+    container_name: bde-ml
+    working_dir: /work
+    volumes:
+      - ./work:/work
+    ports:
+      - "8888:8888"
