@@ -15,7 +15,6 @@ RUN conda create -y -n cheminfo python==3.10
 
 SHELL ["conda", "run", "-n", "cheminfo", "/bin/bash", "-c"]
 RUN conda install -y -c conda-forge jupyterlab matplotlib numpy pandas scikit-learn xgboost optuna
-RUN conda install -y -c conda-forge jupyterlab_vim
 RUN conda install -y -c conda-forge rdkit
 RUN conda install -y -c conda-forge pyarrow
 
