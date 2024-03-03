@@ -22,7 +22,7 @@
    ※ 順に実行しなくても動作する。1から実行したり、2のみ実行しても動作する。
 
 ## 参考
-- 学習データ  
+- 結合解離エネルギーデータ  
   https://doi.org/10.6084/m9.figshare.10248932  
   St. John, P.C., Guan, Y., Kim, Y. et al. Prediction of organic homolytic bond dissociation enthalpies at near chemical accuracy with sub-second computational cost. Nat Commun 11, 2328 (2020). https://doi.org/10.1038/s41467-020-16201-z
 - 特徴量化プログラム  
