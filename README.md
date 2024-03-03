@@ -24,8 +24,8 @@
 ## 参考
 - 学習データ  
   https://doi.org/10.6084/m9.figshare.10248932  
-  [^1]: St. John, P.C., Guan, Y., Kim, Y. et al. Prediction of organic homolytic bond dissociation enthalpies at near chemical accuracy with sub-second computational cost. Nat Commun 11, 2328 (2020). https://doi.org/10.1038/s41467-020-16201-z
+  St. John, P.C., Guan, Y., Kim, Y. et al. Prediction of organic homolytic bond dissociation enthalpies at near chemical accuracy with sub-second computational cost. Nat Commun 11, 2328 (2020). https://doi.org/10.1038/s41467-020-16201-z
 - 特徴量化プログラム  
   http://sourceforge.net/projects/unlpredict  
-  [^2]: Qu, X., Latino, D.A. & Aires-de-Sousa, J. A big data approach to the ultra-fast prediction of DFT-calculated bond energies. J Cheminform 5, 34 (2013). https://doi.org/10.1186/1758-2946-5-34
+  Qu, X., Latino, D.A. & Aires-de-Sousa, J. A big data approach to the ultra-fast prediction of DFT-calculated bond energies. J Cheminform 5, 34 (2013). https://doi.org/10.1186/1758-2946-5-34
   
